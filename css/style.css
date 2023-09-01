@@ -121,8 +121,12 @@ body {
 }
 
 .cardCon {
-  margin-left: 160px;
+  width: 100%;
 }
+
+/* .cardCon {
+  margin-left: 160px;
+} */
 
 /* UBICACIÓN */
 
